@@ -30,3 +30,5 @@ function createFloating1095() {
         floating.remove();
     }, 6000);
 }
+
+
